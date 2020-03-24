@@ -1,0 +1,6 @@
+framework module Pods_CircleView {
+  umbrella header "Pods-CircleView-umbrella.h"
+
+  export *
+  module * { export * }
+}
